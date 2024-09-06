@@ -25,7 +25,7 @@ Enable Developer Mode by clicking the toggle switch next to Developer mode.
 
 Click the Load unpacked button and select the extension directory.
 
-Pin your extension to the toolbar to quickly access your extension during development.
+Pin your extension to the toolbar to quickly access the extension.
 
 
 bYE!
