@@ -4,7 +4,7 @@ This is a Chrome extension that turns capital letters into lower case letters an
 
 `Selected` text in the current active window will be converted and copied to the clipboard.
 
-**Instructions:**
+**How to use it:**
 
 1: Select the text that you need to convert.
 
