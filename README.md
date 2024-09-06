@@ -17,7 +17,9 @@ It works on Google search pages.
 
 **How to install the extension:**
 
-Go to the Extensions page by entering chrome://extensions in a new tab.
+Download the files of this extension.
+
+Go to the Extensions page by entering chrome://extensions in a new Chrome tab.
 
 Enable Developer Mode by clicking the toggle switch next to Developer mode.
 
