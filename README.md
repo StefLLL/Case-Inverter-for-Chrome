@@ -10,7 +10,7 @@ This is a Chrome extension that turns capital letters into lower case letters an
 
 2: Click on the extension icon (I recommend to pin it).
 
-3: Paste to replace the text (if the text is in an input box).
+3: Paste to replace the text (if the text is editable).
 
 This extension only works on https pages. It does not work on the Google home page or any page with an address that starts with "chrome://".
 It works on Google search pages.
