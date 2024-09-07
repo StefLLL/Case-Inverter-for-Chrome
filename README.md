@@ -12,7 +12,7 @@ This is a Chrome extension that turns capital letters into lower case letters an
 
 3: Paste to replace the text (if the text is in an input box).
 
-This extension does not work on the Google home page or any page with an address that starts with "chrome://".
+This extension only works on https pages. It does not work on the Google home page or any page with an address that starts with "chrome://".
 It works on Google search pages.
 
 **How to install the extension:**
@@ -28,4 +28,4 @@ Click the Load unpacked button and select the extension directory.
 Pin your extension to the toolbar to quickly access the extension.
 
 
-bYE!
+eNJOY!
